@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gestion_Salle-main.iml" filepath="$PROJECT_DIR$/.idea/Gestion_Salle-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Salle_Reservation/Salle_Reservation.iml" filepath="$PROJECT_DIR$/Salle_Reservation/Salle_Reservation.iml" />
+    </modules>
+  </component>
+</project>
